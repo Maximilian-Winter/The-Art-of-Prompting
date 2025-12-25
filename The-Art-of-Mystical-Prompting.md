@@ -1,4 +1,4 @@
-# The-Art-of-Mystical-Prompting
+# The-Art-of-Prompting
 
 This here represent a creative framework, based on Chinese metaphysics, for prompt engineering system messages for large language model based agents.
 
